@@ -1,2 +1,2 @@
 # simple_shell
-An ALX Project on making a simple shell in collaboration with Mary Faniran
+An ALX Pair Project on simple shell in collaboration with Faniran Mary
